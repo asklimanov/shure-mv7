@@ -1,0 +1,2 @@
+Device: Microphone Shure MV7 {c5d03b09-ecdf-49c6-9292-724e275325f6}
+Preamp: 5 dB
