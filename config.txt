@@ -1,4 +1,2 @@
 Device: Microphone Shure MV7 {790c6413-b00b-425f-9064-f6a467efda7d}
-Filter: ON PK Fc 436 Hz Gain -1 dB Q 2
-Filter: ON PK Fc 3000 Hz Gain -1 dB Q 1
 Preamp: 8 dB
